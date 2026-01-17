@@ -1,5 +1,21 @@
 # 💫 About Me:
-I am currently working on Happiest Minds Pvt Limited and i am Devops Module lead with AI and MLops Back ground <br>I have done my engineering on electronics from MSRIT ,Banglore<br>Previously I have worked on Lytcone Company on Devops with Linux Administration Background<br>I love sports and creating multiple projects on AI MLOps and Devops CI CD pipelins<br>HAve done project in AMetek pvt ltd<br>Have working as Devops Lead in the Happiest Health Pvt ltd project<br>
+DevOps Module Lead with a strong background in AI, MLOps, and cloud-native CI/CD architectures. Currently working at Happiest Minds Pvt. Ltd., leading DevOps initiatives and driving automation, scalability, and reliability across projects.
+
+I am actively serving as a DevOps Lead for the Happiest Health Pvt. Ltd. project, where I design and manage end-to-end CI/CD pipelines, cloud infrastructure, and MLOps workflows.
+
+I hold an Engineering degree in Electronics from MS Ramaiah Institute of Technology (MSRIT), Bangalore. Prior to Happiest Minds, I worked at Lytcone, focusing on DevOps practices with a strong Linux administration foundation. I have also contributed to enterprise-level projects at AMETEK Pvt. Ltd.
+
+My technical interests include:
+
+DevOps & Platform Engineering
+
+AI & MLOps pipeline development
+
+CI/CD automation and GitOps
+
+Cloud infrastructure and Linux systems
+
+Outside of work, I enjoy sports and continuously build hands-on projects around AI, MLOps, and DevOps CI/CD pipelines to stay current with evolving technologies.
 
 
 ## 🌐 Socials:
